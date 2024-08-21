@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scenes/Atas\xF6z\xFCveDey\u015FnlerLabirent.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
